@@ -148,9 +148,9 @@ Upon completion of this course, students will be able to:
 ## Course Communication
 
 - **Instructor**: [Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237)
-- **Office Hours**: TBD
-- **Course Website**: TBD
-- **Discussion Forum**: TBD
+- **Office Hours**: Tuesdays & Thursdays, 3-4pm, Rm 521, Amy Gutmann Hall (or by appointment)
+- **Course Website**: [https://www.seas.upenn.edu/~meam4600/](https://www.seas.upenn.edu/~meam4600/)
+- **Discussion Forum**: [https://edstem.org/us/courses/93496/](https://edstem.org/us/courses/93496/)
 
 ## Academic Integrity
 
